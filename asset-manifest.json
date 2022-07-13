@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//DATTU005.github.io/Fun_Facts_React/static/css/main.76bee748.css",
+    "main.js": "/http//DATTU005.github.io/Fun_Facts_React/static/js/main.0e60637e.js",
+    "static/media/react-logo.png": "/http//DATTU005.github.io/Fun_Facts_React/static/media/react-logo.702a26a65699561606d2.png",
+    "index.html": "/http//DATTU005.github.io/Fun_Facts_React/index.html",
+    "main.76bee748.css.map": "/http//DATTU005.github.io/Fun_Facts_React/static/css/main.76bee748.css.map",
+    "main.0e60637e.js.map": "/http//DATTU005.github.io/Fun_Facts_React/static/js/main.0e60637e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76bee748.css",
+    "static/js/main.0e60637e.js"
+  ]
+}
